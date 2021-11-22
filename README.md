@@ -16,10 +16,10 @@ The goal of this project is to use the Average Salaries by Education in Saudi Ar
 
 
 ## The files :
-Salary_by_Education.csv file, The used dataset.
-Code.ipynb file, document for the entire CRISP_DM process for this project.
-Code.html file, A copy of Code.ipynb in HTML format
-medium_blog.txt file , containing the blog post link
+- Salary_by_Education.csv file, The used dataset.
+- Code.ipynb file, document for the entire CRISP_DM process for this project.
+- Code.html file, A copy of Code.ipynb in HTML format
+- medium_blog.txt file , containing the blog post link
 
 
 
