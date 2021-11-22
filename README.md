@@ -23,6 +23,8 @@ The goal of this project is to use the Average Salaries by Education in Saudi Ar
 
 
 
+[ Medium blog post Link ](https://medium.com/@ttmmtu/how-are-the-average-salaries-in-saudi-arabia-affected-by-education-level-gender-and-nationality-9dc3a2244f90)
+
 
 ## Summary of the results of the analysis
 
@@ -31,6 +33,16 @@ The following points are answers for the posed questions in the beginning as a r
 2. The citizens in Saudi Arabia get a higher salary than the noncitizens with the same degree level.
 3. The salaries are affected a little by the pandemic, the salaries before the pandemic are slightly higher than the salaries during the pandemic.
 4. The developed Linear regression model can predict Salary with 91.5% accuracy.
+
+
+## Acknowledgments
+
+- I would like to thank SDAIA for sponsoring my enrollment for the Data Scientist Nanodegree under the Misk Udacity Nanodegree Program
+
+- I would like to acknowledge the following for their open data:
+  1. [Average Salaries by Education in Saudi Arabia Data](https://www.kaggle.com/majedalhulayel/average-salaries-by-education-in-saudi-arabia#)
+  2. [GASTA](https://www.stats.gov.sa/en/814)
+
 
 
 
